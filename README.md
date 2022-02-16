@@ -39,7 +39,7 @@ containers caso existam.
 
 `.dockerignore` funciona exatamente igual ao `.gitignore` controlando o que será copiado para dentro do container.
 
-O arquivo `.env` é usado para as variáveis de ambiente e é acessado dentro do `docker-composer.yaml`
+O arquivo `.env` é usado para acessar as variáveis de ambiente através da configuração dentro do `docker-composer.yaml`
     
 ```
    environment:
