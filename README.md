@@ -34,8 +34,8 @@ do projeto usando `from app import app`.
 
 `run.py` é o arquivo de entrada que inicia o aplicativo flask
 
-O arquivo `dockerfile` é usado para construir a imagem e `docker-compose.yaml` é o arquivo usado no gerenciamento
-de um ou mais containers caso existam.
+O arquivo `dockerfile` é usado para construir a imagem e `docker-compose.yaml` no gerenciamento de um ou mais
+containers caso existam.
 
 `.dockerignore` funciona exatamente igual ao `.gitignore` controlando o que será copiado para dentro do container.
 
