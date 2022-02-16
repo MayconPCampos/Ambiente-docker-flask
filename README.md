@@ -4,7 +4,7 @@ Imagem Docker com Flask para aplicações web com Python.
 
 ## Descrição
 
-Com essa imagem você pode criar um ou vários ambientes de desenvolvimento.
+Com essa imagem é possível criar um ou vários ambientes de desenvolvimento.
 
 O único requisito é ter o `Docker` instalado e configurado.
 
