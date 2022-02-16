@@ -8,7 +8,7 @@ Com essa imagem você pode criar um ou vários ambientes de desenvolvimento.
 
 O único requisito é ter o `Docker` instalado e configurado.
 
-Para criar o ambiente clone este repositório com `git clone <repositório>` no git bash
+Para criar o ambiente clone este repositório com `git clone https://github.com/MayconPCampos/Ambiente-docker-flask.git` no git bash
 e abra com o seu Visual Studio Code.
 
 Você vai encontrar a seguinte estrutura de arquivos:
