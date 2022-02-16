@@ -49,4 +49,4 @@ O arquivo `.env` é usado para as variáveis de ambiente e é acessado dentro do
 
 Para criar a imagem e ativar o container basta usar o comando `docker-composer up` no terminal. O app flask inicia com
 o modo DEBUG ligado na porta 5000 do localhost pronto para o desenvolvimento onde as mudanças feitas dentro do volume
-compartilhado, ou seja, o diretório `flask` serão atualizadas dentro do container.
+compartilhado, ou seja, o diretório `flask` serão refletidas dentro do container.
