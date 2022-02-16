@@ -32,7 +32,7 @@ Dentro do diretório `app` é onde o web aplicativo é desenvolvido, como a past
 esse diretório agora serve como um pacote permitindo o acesso à instancia criada do Flask em qualquer parte
 do projeto usando `from app import app`.
 
-o arquivo `run.py` é o arquivo de entrada que inicia o aplicativo flask
+`run.py` é o arquivo de entrada que inicia o aplicativo flask
 
 O arquivo `dockerfile` é usado para construir a imagem e `docker-compose.yaml` é o arquivo usado no gerenciamento
 de um ou mais containers caso existam.
